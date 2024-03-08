@@ -1,0 +1,9 @@
+.rubaru{
+    border-radius: 50%;
+    height:5rem
+}
+.gridbox{
+    display: grid;
+    margin:10px auto;
+    box-sizing: border-box;
+}
